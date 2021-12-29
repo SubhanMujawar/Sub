@@ -1,0 +1,9 @@
+{
+	"ip":"CLEWMASTERPro.aternos.me",
+	"port": 48771,
+	"name": "Umarmujawar",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Subhanmujawar@123 Subhanmujawar@123
+	"login-cmd":"/login (type_ur_pass_here)"
+}
